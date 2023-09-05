@@ -1,0 +1,5 @@
+.venv/
+.vscode/
+.chainlit/
+__pycache__/
+.ipynb_checkpoints/
