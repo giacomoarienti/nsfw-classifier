@@ -1,7 +1,7 @@
 from transformers import pipeline
 from flask import Flask, jsonify, request
 from PIL import Image
-import io
+
 
 pipe = pipeline("image-classification", model="giacomoarienti/nsfw-classifier")
 app = Flask(__name__)
