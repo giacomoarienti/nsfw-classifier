@@ -15,5 +15,8 @@ python3 -m pip install -r requirements.txt
 ## Run API
 `python3 app.py`
 
+## Pre-Trained Model
+[giacomoarienti/nsfw-classifier](https://huggingface.co/giacomoarienti/nsfw-classifier)
+
 ## Dataset
 [deepghs/nsfw_detect](https://huggingface.co/datasets/deepghs/nsfw_detect)
